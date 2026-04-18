@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/191bd6ec-1b91-4803-a3a3-a60cd9a17b1c" />Quiz 8 – Imaging and Coding Technique Research
+Quiz 8 – Imaging and Coding Technique Research
 
 Part 1: Imaging Technique Inspiration
 
