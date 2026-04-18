@@ -2,8 +2,9 @@ Quiz 8 – Imaging and Coding Technique Research
 
 Part 1: Imaging Technique Inspiration
 
-I am inspired by a visual style that combines organic structures with glowing lines, such as human anatomy, DNA forms, and abstract network systems. These images use thin lines to build complex shapes and create a sense of movement and life.
-The glowing effect on a dark background creates strong contrast and gives a cyberpunk feeling. I want to use this technique because it combines structure and motion, and makes the visual feel dynamic and alive. This is useful for my assignment because it allows both detailed form and animation.
+My inspiration comes from a visual style that combines organic structures and luminous lines, such as the shape of DNA, human anatomy, and abstract networks. These lines are thin and interconnected, looking like blood vessels or the pathways of energy flowing within the body. 
+In my conception, the overall form resembles a human heart, quietly beating in the picture, but also influenced by the DNA structure and the flow of blood vessels. This form is composed of a large number of lines and nodes, like a network growing in space. The background is dark, and the lines are with soft white illumination, creating a strong contrast. 
+I am interested in this approach because it simultaneously conveys both structure and movement. The form is clear, yet it also has a "lively" feel.
 
 Inspiration Images
 
@@ -20,9 +21,10 @@ Sources:
 
 Part 2: Coding Technique Exploration
 
-To create this visual effect, I will explore bezier curves to build smooth and organic lines that look like blood vessels or network structures.
-I will also use shader techniques to create glowing effects and dynamic colours, which are important for a cyberpunk style.
-For interaction, I will use mouse movement so that when the user moves the cursor over the canvas, the colour of the lines changes. This makes the visual more interactive and responsive.
+Based on my idea, I conducted some reference studies. I referred to Bezier curves, which can be used to create smooth and flowing lines. These lines can form structures similar to blood vessels or organic networks, rather than rigid geometric shapes. 
+I have also learned about some shader techniques, which can achieve luminous effects and color changes on dark backgrounds. This approach is commonly seen in cyberpunk-style visuals, emphasizing the portrayal of light and color. 
+In terms of interaction, I focus on mouse movement. When the cursor moves on the canvas, it can affect the color of the lines, especially in areas resembling "blood flow". This method does not require clicking, but it can give the image feedback. 
+I also referred to examples like "orbit control", not to directly control the perspective, but to understand how to handle space and motion in a dynamic visual system.
 
 Example code:
 Bezier example: 
