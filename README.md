@@ -1,4 +1,3 @@
-<img width="906" height="786" alt="d05164862028348aa3b5a10109c94422" src="https://github.com/user-attachments/assets/d1c0c068-56cc-4c31-b698-b72b551cb634" />
 Quiz 8 – Imaging and Coding Technique Research
 
 Part 1: Imaging Technique Inspiration
@@ -22,9 +21,10 @@ Based on my concept, I referenced Bezier curves to generate smooth, vessel-like 
 
 Coding Technique Image
 
-![Coding Example 1](<img width="906" height="786" alt="d05164862028348aa3b5a10109c94422" src="https://github.com/user-attachments/assets/0a50493a-cdff-409e-9ad3-4ce7f4099ee7" />)
+![Coding Example 1]<img width="906" height="786" alt="d05164862028348aa3b5a10109c94422" src="https://github.com/user-attachments/assets/d1c0c068-56cc-4c31-b698-b72b551cb634" />
 
-![Coding Example 2](<img width="1014" height="770" alt="e7f0d544c301c70d51b71ac57b20d510" src="https://github.com/user-attachments/assets/6c077010-4329-4f40-8a47-83829a93e705" />)
+![Coding Example 2]<img width="1014" height="770" alt="e7f0d544c301c70d51b71ac57b20d510" src="https://github.com/user-attachments/assets/131241bd-79ad-428b-aae3-fca9f4cc638c" />
+
 
 Example code:
 Bezier example: 
