@@ -1,18 +1,15 @@
 Quiz 8 – Imaging and Coding Technique Research
 
 Part 1: Imaging Technique Inspiration
-
-My inspiration comes from a visual style that combines organic structures and luminous lines, such as the shape of DNA, human anatomy, and abstract networks. These lines are thin and interconnected, looking like blood vessels or the pathways of energy flowing within the body. 
-In my conception, the overall form resembles a human heart, quietly beating in the picture, but also influenced by the DNA structure and the flow of blood vessels. This form is composed of a large number of lines and nodes, like a network growing in space. The background is dark, and the lines are with soft white illumination, creating a strong contrast. 
-I am interested in this approach because it simultaneously conveys both structure and movement. The form is clear, yet it also has a "lively" feel.
+My inspiration comes from visuals combining organic structures and luminous lines, like DNA, human anatomy, and abstract networks. Thin, connected lines resemble blood vessels or energy pathways. The overall shape is like a beating heart, influenced by DNA and vessel flow, formed by lines and nodes. With a dark background and softly glowing white lines, it shows clear structure and vivid movement.
 
 Inspiration Images
 
-![Inspiration 1](https://images.stockcake.com/public/0/e/d/0ed4f78e-1aa5-4961-b4f3-725e75642e7b_large/neon-human-anatomy-stockcake.jpg)
+![Inspiration 1](<img width="512" height="512" alt="neon-human-anatomy-stockcake" src="https://github.com/user-attachments/assets/d2ca0838-563a-4ccc-a9f2-3107a5504fec" />)
 
-![Inspiration 2](https://i.pinimg.com/1200x/cd/bd/96/cdbd9666265a4880c483ec51f5543ba7.jpg)
+![Inspiration 2](<img width="1199" height="1711" alt="cdbd9666265a4880c483ec51f5543ba7" src="https://github.com/user-attachments/assets/397603be-bbde-4762-9759-3a47c66ae116" />)
 
-![Inspiration 3](https://i.pinimg.com/736x/74/27/38/7427388ae4db862550998b3b557d18e8.jpg)
+![Inspiration 3](<img width="736" height="1096" alt="7427388ae4db862550998b3b557d18e8" src="https://github.com/user-attachments/assets/d3f3faa4-6204-46dc-8394-2aff91cfb9ac" />)
 
 Sources:
 1. https://images.stockcake.com/public/0/e/d/0ed4f78e-1aa5-4961-b4f3-725e75642e7b_large/neon-human-anatomy-stockcake.jpg
@@ -20,11 +17,13 @@ Sources:
 3. https://i.pinimg.com/736x/74/27/38/7427388ae4db862550998b3b557d18e8.jpg
 
 Part 2: Coding Technique Exploration
+Based on my concept, I referenced Bezier curves to generate smooth, vessel-like organic lines instead of rigid geometries. I also studied shaders for luminous, color-shifting effects typical of cyberpunk aesthetics. For interaction, mouse movement alters line colors, especially in “blood flow” areas, providing real-time feedback without clicks. I also referenced orbit control examples to better handle spatial dynamics.
 
-Based on my idea, I conducted some reference studies. I referred to Bezier curves, which can be used to create smooth and flowing lines. These lines can form structures similar to blood vessels or organic networks, rather than rigid geometric shapes. 
-I have also learned about some shader techniques, which can achieve luminous effects and color changes on dark backgrounds. This approach is commonly seen in cyberpunk-style visuals, emphasizing the portrayal of light and color. 
-In terms of interaction, I focus on mouse movement. When the cursor moves on the canvas, it can affect the color of the lines, especially in areas resembling "blood flow". This method does not require clicking, but it can give the image feedback. 
-I also referred to examples like "orbit control", not to directly control the perspective, but to understand how to handle space and motion in a dynamic visual system.
+Coding Technique Image
+
+![Coding Example 1](<img width="906" height="786" alt="d05164862028348aa3b5a10109c94422" src="https://github.com/user-attachments/assets/ddd51545-6853-4615-88e5-a4e4fc6f9f26" />)
+
+![Coding Example 2](<img width="1014" height="770" alt="e7f0d544c301c70d51b71ac57b20d510" src="https://github.com/user-attachments/assets/c34382bb-6301-4d30-afde-43d43d7e4486" />)
 
 Example code:
 Bezier example: 
