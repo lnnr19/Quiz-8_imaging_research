@@ -20,9 +20,10 @@ Part 2: Coding Technique Exploration
 Based on my concept, I referenced Bezier curves to generate smooth, vessel-like organic lines instead of rigid geometries. I also studied shaders for luminous, color-shifting effects typical of cyberpunk aesthetics. For interaction, mouse movement alters line colors, especially in “blood flow” areas, providing real-time feedback without clicks. I also referenced orbit control examples to better handle spatial dynamics.
 
 Coding Technique Image
-
+Bezier
 ![Coding Example 1]<img width="906" height="786" alt="d05164862028348aa3b5a10109c94422" src="https://github.com/user-attachments/assets/d1c0c068-56cc-4c31-b698-b72b551cb634" />
 
+Orbit Control
 ![Coding Example 2]<img width="1014" height="770" alt="e7f0d544c301c70d51b71ac57b20d510" src="https://github.com/user-attachments/assets/131241bd-79ad-428b-aae3-fca9f4cc638c" />
 
 
